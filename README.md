@@ -1,14 +1,5 @@
 # RailSync: Dynamic Forecast of ETA & Delay Recovery for Coaching Trains
 
-**Smart India Hackathon 2026**  
-- **Problem Statement ID:** 26028  
-- **Problem Statement Title:** Dynamic Forecast of Expected Time of Arrival (ETA) for Coaching Trains  
-- **Theme:** Smart Transportation / Railways  
-- **Category:** Software  
-- **Team ID:** 136238  
-- **Team Name:** CodeVerse_1  
-
----
 
 ## 🚄 Pipeline Architecture
 
